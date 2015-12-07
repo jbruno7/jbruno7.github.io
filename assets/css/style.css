@@ -30,5 +30,10 @@ background-size: 100% 100%;
 #writtenworkspage {
   background-color: #0099CC;
   opacity: 0.6;
-  
+  color: #000000;
+}
+
+#writtenhead {
+  text-align: center;
+
 }
