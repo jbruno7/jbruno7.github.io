@@ -16,4 +16,5 @@ padding-left: 20px;
 .body {
 background-repeat:no repeat;
 background-size:contain;
+background-size: 100% 100%;
 }
