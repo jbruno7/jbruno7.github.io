@@ -15,5 +15,7 @@ padding-left: 20px;
 
 .body {
 backround-image:fullscreen;
-background-position:no repeat;
+background-repeat:no repeat;
+background-size: cover;
+background position: 50& 50%;
 }
