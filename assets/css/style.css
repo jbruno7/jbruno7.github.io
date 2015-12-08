@@ -30,7 +30,6 @@ background-size: 100% 100%;
 #writtenworks {
   background-color: #0099CC;
   font: #000000;
-  font-family: monospace;
 }
 
 #writtenworkspage {
@@ -44,5 +43,5 @@ background-size: 100% 100%;
 }
 
 #writtenworkpic {
-  align-items: center;
+padding-right: 10px;
 }
